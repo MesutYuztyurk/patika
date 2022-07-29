@@ -28,4 +28,4 @@ Average Case Ortada olduğu için.
 
 Sıradaki bakılan en küçük sayı doğru yerinde ise o sayı bir atlanarak işlem yapılır.
 
-
+ [www.patika.dev]
