@@ -27,4 +27,5 @@ Average Case: O(nlogn)
 
 Best Case: O(nlogn)
 
-wwww.patika.dev
+
+[www.patika.dev]
